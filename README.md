@@ -9,4 +9,4 @@ El promedio se basa en 2 examenes realizados a lo largo del curso.
 <br>
 
 ## Clasificación
-Con los tweets de personas de lengua inglesa, se podrá saber si alguna de esas personas tiene estrés, el conjunto de datos maneja el estrés en 2 clases, **estres positivo** (se tiene estrés: 1) y **estrés negativo** (no hay estrés: 0), así que con una cadena de caracteres se podrá saber a que clase pertenece y saber si tiene estrés o no.
+Con los tweets de personas de habla inglesa, se podrá saber si alguna de esas personas tiene estrés, el conjunto de datos maneja el estrés en 2 clases, **estres positivo** (se tiene estrés: 1) y **estrés negativo** (no hay estrés: 0), así que con una cadena de caracteres se podrá saber a que clase pertenece y saber si tiene estrés o no.
