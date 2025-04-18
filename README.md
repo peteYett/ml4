@@ -3,7 +3,7 @@ Machine Learning
 
 
 ## Prediccion
-Con distintos datos de alumnos, se intentarà predecir un promedio, los datos son caracteristicas de cada uno de los alumnos, como la escuela a la que asisten: si es publica o privada, su localizacion de la escuela: urbana, sub-urbana o rural; su genero, el método de enseñanza que reciben e incluso si gozan de un lunch.
+Con distintos datos de alumnos, se intentará predecir un promedio, los datos son caracteristicas de cada uno de los alumnos, como la escuela a la que asisten: si es publica o privada, su localizacion de la escuela: urbana, sub-urbana o rural; su genero, el método de enseñanza que reciben e incluso si gozan de un lunch.
 El promedio se basa en 2 examenes realizados a lo largo del curso.
 
 <br>
